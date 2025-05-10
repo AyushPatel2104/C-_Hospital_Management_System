@@ -1,4 +1,4 @@
-# 🏥 C++ Hospital Management System
+# 🏥 Cpp Hospital Management System
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-OOP-blue?style=flat-square" />
