@@ -1,10 +1,10 @@
-# 🏥 Cpp Hospital Management System
+# 🏥 C++ Hospital Management System
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-OOP-blue?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/AyushPatel2104/C++_Hospital_Management_System?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/AyushPatel2104/C++_Hospital_Management_System?style=flat-square" />
-  <img src="https://img.shields.io/github/license/AyushPatel2104/C++_Hospital_Management_System?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/AyushPatel2104/Cpp_Hospital_Management_System?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/AyushPatel2104/Cpp_Hospital_Management_System?style=flat-square" />
+  <img src="https://img.shields.io/github/license/AyushPatel2104/Cpp_Hospital_Management_System?style=flat-square" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ This **Hospital Management System** is an advanced, modular C++ project featurin
 
 ## 📁 File Structure
 
-📦 C++_Hospital_Management_System
+📦 Cpp_Hospital_Management_System
 ├── main.cpp
 ├── patient.cpp / patient.h
 ├── appointment.cpp / appointment.h
@@ -50,7 +50,6 @@ This **Hospital Management System** is an advanced, modular C++ project featurin
 ├── Makefile
 ├── run.sh
 └── README.md
-
 
 ---
 
@@ -72,9 +71,21 @@ make run         # if using the Makefile
 Username: admin
 Password: admin123
 
-📄 License
+ License
 This project is licensed under the MIT License
 
 👤 Author
 Made with ❤️ by Ayush Patel
-🌐 GitHub • LinkedIn
+🌐 GitHub :- https://github.com/AyushPatel2104 
+ • LinkedIn :- https://www.linkedin.com/in/ayushpatel2104?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
+
+### ✅ Next Steps
+
+1. Replace your current `README.md` with this one.
+2. Commit the changes:
+   ```bash
+   git add README.md
+   git commit -m "📝 Updated README with fixed badges and project details"
+   git push
